@@ -141,8 +141,7 @@ backend/
 ## 📬 Contact
 
 Developed by **Svitlana Havrylets**  
-Email: [your-email@example.com]  
-GitHub: [github.com/svitlanahavrylets](https://github.com/svitlanahavrylets)
+Email: [svitlana.havrylets@gmail.com]
 
 ---
 
