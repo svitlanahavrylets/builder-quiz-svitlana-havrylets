@@ -98,7 +98,7 @@ cd frontend
 npm run dev
 ```
 
-Now go to `http://localhost:3000` 🎉
+Now go to `http://localhost:3000`
 
 ---
 
